@@ -11,18 +11,18 @@ Welcome to the [dbt™ Data Modeling Challenge - Social Media Edition](https://w
    - [Tools Used](#tools-used)
    - [Data Preparation Techniques](#data-preparation-techniques)
 4. [Insights](#insights)
-   - [Youtube Stands Out](#youtube-stands-out)
-   - [Definitely Not Technology](#definitely-not-technology)
-   - [Newbie on the Trend Table](#newbie-on-the-trend-table)
-   - [Songs? Really?](#songs-really)
-   - [Songs it is!](#songs-it-is)
-   - [More Popularity in the North and South](#more-popularity-in-the-north-and-south)
-   - [The South Still Has It](#the-south-still-has-it)
-   - [Entertainment Comes Top](#entertainment-comes-top)
-   - [It's at Top 5](#its-at-top-5)
-   - [Non-Youtube Engagements are also High](#non-youtube-engagements-are-also-high)
-   - [Sentiments Went on a Dip](#sentiments-went-on-a-dip)
-   - [Skibidi Toilet is for the New Generation](#skibidi-toilet-is-for-the-new-generation)
+   - [YouTube: A Platform That Stands Out](#youtube-a-platform-that-stands-out)
+   - [The Unlikely Star of YouTube: Skibidi Toilet](#the-unlikely-star-of-youtube-skibidi-toilet)
+   - [A Newcomer with Staying Power](#a-newcomer-with-staying-power)
+   - [Surprise: It’s All About the Songs](#surprise-its-all-about-the-songs)
+   - [Songs: The King of YouTube Content](#songs-the-king-of-youtube-content)
+   - [The Geographic Divide: Skibidi Toilet’s Popularity](#the-geographic-divide-skibidi-toilets-popularity)
+   - [Entertainment Reigns Supreme in the South](#entertainment-reigns-supreme-in-the-south)
+   - [Entertainment Dominates YouTube’s Landscape](#entertainment-dominates-youtubes-landscape)
+   - [Top 5 Channel: DaFuq!?Boom!](#top-5-channel-dafuqboom)
+   - [High Engagement Beyond YouTube](#high-engagement-beyond-youtube)
+   - [Sentiment Shift: A Recent Dip](#sentiment-shift-a-recent-dip)
+   - [Reddit’s Take: Skibidi Toilet Resonates with a Younger Audience](#reddits-take-skibidi-toilet-resonates-with-a-younger-audience)
 5. [Conclusions](#conclusions)
 6. [Recommendations](#recommendations)
 
@@ -96,93 +96,94 @@ To have a more interactive dive into my insights, you can visit [my Hex App](htt
 
 *Get insights from this project on how an animation came from nowhere to steal the show on Youtube. Insights derived from this project can help you own your fame on Youtube.*
 
-### Youtube Stands Out
+### YouTube: A Platform That Stands Out
 
 ![alt text](<images/Most Used Platforms.png>)
 
-Of the most used platforms on Hackernews, Youtube stands out as one of the top after Github. For a place such as Hackernews for people in Technology and Entrepreneurship, it's no surprise that Github came at the top. 
+Among the most frequented platforms on HackerNews, YouTube ranks high, second only to GitHub. It's hardly a surprise that GitHub, a hub for technology enthusiasts and entrepreneurs, claims the top spot. However, YouTube's strong presence is equally significant, especially as a leading learning resource for those in technology.
 
+**But what’s driving YouTube’s success in recent years?**
 
-It's also not a surprise that Youtube came second because Youtube has been known to be one of the most used learning resources especially for those who are into technology.
+When we look at YouTube search trends from 2021 to the present, the picture changes dramatically. You might assume that tech-related queries dominate the scene, but the reality may surprise you.
 
+This unexpected change is what drove the narrative of this data story.  Come with me as we explore this narrative together!
 
-However, in general terms, what Youtube search queries have been trending between 2021 and now? **Would these Youtube search queries still be in the domain of technology?**
+### The Unlikely Star of YouTube: Skibidi Toilet
 
-### Definitely Not Technology
+According to data from Google Trends between 2021 and now, 'Skibidi toilet' has been a trending search query on Youtube. 
 
-'Skibidi toilet' has been on the trending tables since 2021. Do you know what 'skibidi toilet' is? Never heard of the term before? I'll enlighten you.
+You may not have heard of *Skibidi Toilet*, but this peculiar term has been a YouTube sensation. 
 
-![alt text](<images/Rising Youtube Search Queries in Google Trends.png>)
+Let’s dive into what exactly it is. According to Wikipedia:
 
-Here's a brief on 'skibidi toilet' by Wikipedia:
 > Skibidi Toilet is a machinima web series released through YouTube videos and shorts, created by Alexey Gerasimov and uploaded on his YouTube channel DaFuq!?Boom!. Produced using Source Filmmaker, the series follows a fictional war between human-headed toilets and humanoid characters with electronic devices for heads.
 
+Odd, right? And yet, Skibidi Toilet has held its ground on the trending charts since it first appeared.
 
-**What do you think about this term in comparison to others on the trend table?** Has 'skibidi toilet' been existing for a long time? Or did it just get introduced into the world?
-
-### Newbie on the Trend Table
+### A Newcomer with Staying Power
 
 ![alt text](<images/Timeline of Top Youtube Search Queries Worldwide.png>)
 
-'Skibidi toilet' was first posted on Youtube in February 2023. But it started trending few weeks after it was posted. Although the trending skibidi toilet seems to have reduced in popularity over time, skibidi toilet still stays at the top in comparison to the other trending queries.
+Posted in February 2023, Skibidi Toilet quickly rose in popularity, dominating YouTube search trends just weeks after its debut. Though its fame may have slightly waned, it still outpaces many long-standing popular search queries. 
 
+This raises an interesting question: **What exactly are people searching for?**
 
-**To delve deeper into it, what terms are people searching for that has made it trending since it was posted on Youtube?**
-
-### Songs? Really?
+### Surprise: It’s All About the Songs
 
 ![alt text](<images/Most Searched Skibidi Toilet Related Keywords.png>)
 
-People are mostly searching for the songs in the series. Surprising? Probably not.
+One of the driving forces behind Skibidi Toilet’s rise is its music. People aren’t just watching the bizarre animation; they’re searching for the songs in the series. 
 
-**But if skibidi songs were to be one of the top keywords, can we also claim that 'songs' in general terms are one of the most searched keywords on Youtube?**
+This suggests something bigger. **Can we generalize that songs, in all formats, are among the most searched content on YouTube?**
 
-## Songs it is!
+## Songs: The King of YouTube Content
 
-Song seems to appear as one of the most searched formats on Youtube. Notice the huge gap between the song and movie that's the second top format. Also, it's plural form (Songs) also appeared at the top 4.
+It’s clear that songs hold a commanding lead over other formats on YouTube. In fact, the gap between songs and movies (the second most popular search format) is striking. Interestingly, the plural form of "songs" also appears among the top five search queries.
+
+But who is searching for these songs, or even something as niche as Skibidi Toilet songs?
 
 ![alt text](<images/Top Youtube Search Topic Formats.png>)
 
-But who could be searching for songs on Youtube or even 'skibidi toilet songs'?
+MintTwist once said, “One of the biggest mistakes on YouTube is creating videos that nobody is searching for.” The creators of Skibidi Toilet seem to have nailed their audience’s interests, sparking a surge of searches. 
 
-Have you seen this quote by MintTwist?
+**But what nationalities are most engaged with this content?**
 
-> One of biggest mistakes I see people making on Youtube creating videos that nobody is searching for?
-
-If you want to make rival Youtube content, you need to understand your audience. And the owners of skibidi toilet definitely did. So what nationalities are more interested in this content?
-
-### More Popularity in the North and South
+### The Geographic Divide: Skibidi Toilet’s Popularity
 
 For a more interactive map. Visit [this link](https://app.hex.tech/e6c00971-5b65-4681-a8cb-b90ada70d712/app/da170203-740a-4676-8f76-467ac4e5ed64/latest?selectedStaticCellId=7d782ae3-9c78-40ea-9310-9a57bd94b94b)
 
 ![alt text](<images/Skibidi Toilet Popularity by Country.png>)
 
-There's an obvious division of popularity of 'skibidi toilet' worldwide. There is more popularity in the North and South American countries compared to other countries. Skibidi toilet is also popular in Australia. 
+There’s a clear divide in the global appeal of Skibidi Toilet. North and South American countries are leading in searches, with Australia close behind. 
 
-**Going back to general terms, can we also say that there's simiilar popularity of Entertainment Youtube videos in these countries?**
+This trend raises another question: **Is the broader category of Entertainment equally popular in these regions?**
 
-### The South Still Has It
+### Entertainment Reigns Supreme in the South
 
 For a more interactive map, visit [this link](https://app.hex.tech/e6c00971-5b65-4681-a8cb-b90ada70d712/app/da170203-740a-4676-8f76-467ac4e5ed64/latest?selectedStaticCellId=0c51ca64-6da8-4de3-ae24-78b0b69b83ec)
 
 ![alt text](<images/Entertainment Youtube Views by Country.png>)
 
-Although there's insufficient data to make this conclusion, the South American countries are more interested in Entertainment Youtube videos compared to other countries. 
+Though data on broader entertainment Youtube trends in the world is limited, there’s enough to suggest that mostly South America have a significant interest in entertainment-focused YouTube content.
 
-**Now, in comparision to other youtube video categories, what position do the Entertainment category fall on?**
+**How does this category stack up against other genres on the platform?**
 
-### Entertainment Comes Top
+### Entertainment Dominates YouTube’s Landscape
 
 ![alt text](<images/Average Youtube Views per Video by Youtube Categories.png>)
 
-In measuring the average views per video, the 'Entertainment' Category still comes top of all categories in Youtube. However, there's a little gap between the Entertainment and Science & Technology categories. 
-Let's go back to being specific on 'Skibidi toilet', what is the growth of the youtube channel hosting the animation compared to other youtube channels?
+When looking at the average views per video, Entertainment continues to lead all other YouTube categories. 
 
-### It's at Top 5
+The Entertainment category encompasses a wide range of content—everything from viral videos, vlogs, comedy skits, to music and pop culture. It’s the catch-all for content designed primarily to amuse and engage viewers, which explains why it consistently dominates in terms of views.
 
-DaFuq!?Boom!, the youtube channel hosting the skibidi toilet animation is the 5th top channel based on average views per video. 
+However, the margin between Entertainment and Science & Technology is smaller than one might expect. This highlights how diverse audience interests on YouTube truly are, with people engaging both with light-hearted entertainment and more educational content.
 
-Let me show you a quick list of the channels and their first time videos:
+But let’s return to Skibidi Toilet. **How does the channel behind this viral trend compare to other top-performing YouTube creators?**
+
+### Top 5 Channel: DaFuq!?Boom!
+
+DaFuq!?Boom!, the creator of Skibidi Toilet, now ranks among YouTube’s top five channels based on average views per video. Here’s a quick look at the channels and their longevity:
+
 - MrBeast - 12 years ago
 
 - UNILAD - 6 years ago
@@ -193,41 +194,41 @@ Let me show you a quick list of the channels and their first time videos:
 
 - DaFuq?!Boom! - 7 years ago
 
-Asides 'Meow-some! Reacts' that is an exception,  DaFuq?!Boom! is doing well in comparison to other Youtube channels that are ahead of it. If it stays on track in creating engaging content for its audience, it could surpass some of these Youtube channels.
+Despite its relatively recent success, DaFuq!?Boom! is holding its own against much older, more established channels. With continued focus on engaging content, there’s potential for it to climb even higher.
 
 ![alt text](<images/Average Views per Video by Youtube Channels.png>)
 
-Onto our next question...
+Onto Our Next Question... 
 
-**Are these engagement stuck on Youtube? Or is skibidi toilet talked about well outside the walls of Youtube?**
+**Is the buzz around Skibidi Toilet confined to YouTube, or is it sparking conversations beyond the platform?**
 
-### Non-Youtube Engagements are also High
+### High Engagement Beyond YouTube
 
 ![alt text](<images/Reddit KPIs.png>)
 
-Based on the scores below, there is high engagement of posts associated with 'skibidi toilet' on Reddit. the Reddit post score of 2873 and upvote ratio of 0.883 indicates that people have a general liking for the posts made about it. Hence, the higher number of upvotes compared to the downvotes. 
+Surprisingly, Skibidi Toilet is not just a YouTube phenomenon—it’s generating significant traction on Reddit as well. With a Reddit post score of 2,873 and an impressive upvote ratio of 0.883, it’s clear that people are engaging positively with the content. The high number of upvotes, compared to downvotes, suggests a generally favorable reception among Redditors.
 
-The comment score of 12 also shows that there are also decent number of engagements with the comments. 
+The comment score of 12 also highlights a respectable level of interaction within the discussions, adding another layer of engagement.
 
-However, there's a contradictory information with the sentiment score. It tends to be almost neutral as regards people's perspective about skibidi toilet. 
+However, there’s an interesting twist. Despite all the buzz, the sentiment score for Skibidi Toilet remains nearly neutral. So, while the engagement is strong, people’s feelings about it are more mixed than you might expect.
 
-**Has this almost neutral sentiment been a constant thing? Or did it change at some point?**
+**Has this neutral sentiment been the norm, or did it shift over time?**
 
-### Sentiments Went on a Dip
+### Sentiment Shift: A Recent Dip
 
 ![alt text](<images/Comment Sentiment Scores Overtime.png>)
 
-There has been constant fluctuations of the sentiment towards skibidi toilet overtime. While the dips recovered most of time, it hasn't recovered since the dip in June 2024. It's possible that the videos are no longer meeting the expectations of the audience. But we can't say that for sure.
+Sentiment around Skibidi Toilet has fluctuated, and a notable dip in June 2024 has yet to recover. 
 
-**How about the most used terms in these reddit posts? What do people mention when they discuss about skibidi toilet?**
+**Could the series be losing its edge, or is this just a natural cycle of online content?**
 
-### Skibidi Toilet is for the New Generation
+### Reddit’s Take: Skibidi Toilet Resonates with a Younger Audience
 
 ![alt text](<images/Reddit Word Cloud.png>)
 
-A look at the most used keywords in the Reddit skibidi toilet posts shows something unique. Skibidi toilet most likely resonates with kids and the gen alpha (Not GenZ) people. This is probably expected because not many adults would be interested in watching human heads creating wars in a toilet. 
+An analysis of Reddit discussions reveals that Skibidi Toilet primarily resonates with younger audiences, particularly Gen Alpha. 
 
-There's also another bold word, 'like'. That probably confirms it. **People who talk about it mostly like Skibidi Toilet.**
+With keywords like "kids" and "like" standing out in these discussions, it’s clear that the bizarre charm of human-headed toilets appeals to the next generation.
 
 ## Conclusion
 
@@ -245,13 +246,12 @@ There's also another bold word, 'like'. That probably confirms it. **People who 
 
 ## Recommendations
 
-- **Capitalize on Music Trends:** Given that songs and music videos dominate Youtube searches, entertainment-related channels could explore incorporating music into their content strategies.
+- **Leverage Cross-Platform Engagement:** Brands and content creators looking to replicate the success of Skibidi Toilet should focus on fostering engagement across multiple platforms, like Reddit and YouTube. Cross-promotion will help sustain a viral phenomenon beyond its initial surge.
+
+- **Monitor Sentiment Trends:** Although engagement is high, the neutral sentiment score hints that Skibidi Toilet may not enjoy sustained positive attention without adjustments. Tracking sentiment over time and making content tweaks based on audience feedback can prevent further dips in popularity.
+
+- **Tap into Younger Audiences:** Content creators aiming for viral success should take note of Skibidi Toilet’s appeal to Gen Alpha. Developing content that resonates with this demographic—combining humor, animation, and music—could be key to unlocking new engagement opportunities.
+
+- **Experiment with Unconventional Formats:** The unexpected rise of something as niche as Skibidi Toilet shows the value of experimenting with non-traditional content formats. Brands and creators should be bold in exploring quirky, experimental ideas that might captivate underserved audiences.
 
 - **Target Regional Audiences with Entertainment:** Brands and content creators could leverage the popularity of entertainment content in North and South America by tailoring their content strategies to appeal more to these regions. This could include adapting formats, language, and cultural references. Also, brands could study their desired audiences to see the kind of youtube categories they are interested in.
-
-- **Sustaining Engagement through Content Innovation:** For entertainment channels like DaFuq!?Boom!, maintaining momentum will require continual content innovation. Introducing new characters, storylines, or even integrating community-driven ideas could help revive and sustain audience interest.
-
-- **Understanding Generational Preferences:** Recognizing that Skibidi Toilet resonates with Gen Alpha more than other age groups, creators targeting younger audiences should consider creating content that is humorous, quirky, and visually engaging to capture and hold their attention.
-
-- **Monitor Sentiment and Respond Quickly:** It is crucial for content creators to monitor the sentiment around their videos and make adjustments quickly. For instance, engaging with audience feedback on platforms like Reddit can provide early signals of dissatisfaction, allowing creators to pivot or innovate in response.
-
